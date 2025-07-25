@@ -1,0 +1,108 @@
+<aiml version="1.0.1" enconding="UTF-8">
+
+<category>
+        <pattern>HELLO</pattern>
+        <template>HOW CAN I HELP YOU</template>
+</category>
+
+<category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I AM BOT</template>
+</category>
+
+<category>
+        <pattern>CAN I ASK YOU A QUESTION</pattern>
+        <template>SURE !</template>
+</category>
+
+<category>
+        <pattern>WHO IS THE PRIME MINISTER OF PAKISTAN</pattern>
+        <template>MIA MUHAMMAD SHAHBAZ SHAREEF</template>
+</category>
+
+<category>
+        <pattern>WHAT IS THE CAPITAL OF PAKISTAN</pattern>
+        <template>ISLAMABAD!!!</template>
+</category>
+
+<category>
+        <pattern>GOOD MAN</pattern>
+        <template>THANKS MAN</template>
+</category>
+
+<category>
+        <pattern>WHO DISCOVERED GRAVITY</pattern>
+        <template>NEWTON</template>
+</category>
+
+<category>
+        <pattern>WHAT DOES CPU STAND FOR</pattern>
+        <template>CENTRAL PROCESSING UNIT</template>
+</category>
+
+<category>
+        <pattern>WHAT IS THE FUNCTION OF AN OPERATING SYSTEM</pattern>
+        <template>IT MANAGES HARDWARE RESOURCES AND PROVIDES SERVICES FOR COMPUTER PROGRAMS</template>
+</category>
+
+<category>
+        <pattern>WHAT IS CYBERSECURITY</pattern>
+        <template>PROTECTING COMPUTER SYSTEM AND NETWORKS FROM DIGITAL ATTACKS</template>
+</category>
+
+<category>
+        <pattern>WHAT IS THE CAPITAL OF PAKISTAN</pattern>
+        <template>ISLAMABAD!!!</template>
+</category>
+
+<category>
+        <pattern>WHAT IS COMPILER</pattern>
+        <template>A PROGRAM THAT CONVERTS SOURCE CODE INTO MACHINE CODE BEFORE EXECUTION</template>
+</category>
+
+<category>
+        <pattern>WHAT IS IP ADDRESS</pattern>
+        <template>A UNIQUE STRING OF NUMBERS THAT IDENTIFIES A DEVICE ON A NETWORK</template>
+</category>
+
+
+<category>
+        <pattern>HOW DO YOU TAKE INPUT FROM THE USER IN PYTHON</pattern>
+        <template>USING THE INPUT() FUNCTION\n
+        EXAMPLE:
+            NAME=INPUT("ENTER YOU NAME : ")
+        </template>
+</category>
+
+
+<category>
+        <pattern>WHY IS BINARY USED IN COMPUTERS INSTEAD OF DECIMAL</pattern>
+        <template>BECAUSE COMPUTERS ONLY UNDERSTAND TWO STATES : OMN(1) AND OFF(0)</template>
+</category>
+
+<category>
+        <pattern>IF YOUR INTERNET IS CONNECTED BUT THE WEBSITES DO NOT OPEN WHAT COULD BE THE PROBLEM</pattern>
+        <template>DNS ISSUES, FIREWALL SETTINGS OR BROWSER PROBLEMS COULD BLOCK WEBSITED</template>
+</category>
+
+
+<category>
+        <pattern>HOW DOES ONLINE BANKING BENEFIT BOTH THE CUSTOMER AND THE BANK?</pattern>
+        <template>ONLINE BANKING SAVE TIME, REDUCES PAPER WORK AND ALLOWS 24/7 ACCESS FOR BOTH USERS AND BANKS</template>
+</category>
+
+
+<category>
+        <pattern>WHAT COULD YOU DO</pattern>
+        <template>EVERYTHING MAN</template>
+</category>
+
+
+
+<category>
+        <pattern>THANK YOU</pattern>
+        <template>YOUR WELCOME !!!</template>
+</category>
+
+
+</aiml>
